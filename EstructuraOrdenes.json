@@ -1,0 +1,22 @@
+{
+    orderId: 1,
+    "Address:" "calle falsa 360",
+    "status": "en preparacion",
+    "articles": [ 
+        {
+        Name: "caramelos",
+        Quantity: 1000,
+        Dangerous: false,
+        }
+        {
+            Name: "chocolate",
+            Quantity: 10,
+            Dangerous: false,
+        }
+        {
+                Name: "pilas AA",
+                Quantity: 40,
+                Dangerous: true,
+                }
+    ]
+}
